@@ -1,0 +1,12 @@
+node_modules/
+dist/
+ui/node_modules/
+ui/dist/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+CLAUDE.md
+.claude/
+docs/
+MeiGen-skills-creator.zip
