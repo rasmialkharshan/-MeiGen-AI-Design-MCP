@@ -20,7 +20,9 @@
     "dev": "tsx src/index.ts",
     "typecheck": "tsc --noEmit",
     "misbar": "tsx src/app/cli/index.ts",
-    "misbar:serve": "tsx src/app/app.ts"
+    "misbar:serve": "tsx src/app/app.ts",
+    "ui": "npm --prefix ui run dev",
+    "ui:build": "npm --prefix ui run build"
   },
   "keywords": [
     "mcp",
